@@ -1,12 +1,11 @@
 {
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "next build",
-    "dev": "next",
-    "now-build": "next build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "next": "^8.0.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
-  }
+  "author": "Soham Kamani <sohamkamani@gmail.com> (http://sohamkamani.com)",
+  "license": "ISC"
 }
