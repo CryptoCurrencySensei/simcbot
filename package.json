@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
   },
-  "author": "Soham Kamani <sohamkamani@gmail.com> (http://sohamkamani.com)",
+  "author": "Soham Kamani <sensei@simgroup.io> (http://simgroup.io)",
   "license": "ISC"
 }
